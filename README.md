@@ -13,7 +13,6 @@
 
  - License
 
-
 ## BLock Diagram
 
  ![](images/ESP32-IoT_Relay.png)
